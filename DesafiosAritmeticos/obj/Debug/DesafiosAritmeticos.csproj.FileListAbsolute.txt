@@ -1,0 +1,7 @@
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\bin\Debug\DesafiosAritmeticos.exe.config
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\bin\Debug\DesafiosAritmeticos.exe
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\bin\Debug\DesafiosAritmeticos.pdb
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\obj\Debug\DesafiosAritmeticos.csprojAssemblyReference.cache
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\obj\Debug\DesafiosAritmeticos.csproj.CoreCompileInputs.cache
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\obj\Debug\DesafiosAritmeticos.exe
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\Desafios\DesafiosAritmeticos\DesafiosAritmeticos\obj\Debug\DesafiosAritmeticos.pdb
